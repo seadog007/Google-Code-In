@@ -1,0 +1,7 @@
+* apt-get install kde-sc-dev-latest debhelper pkg-kde-tools kdelibs5-dev libkonq5-dev libsqlite3-dev libqca2-dev kdepimlibs5-dev libktorrent-dev libmms-dev libboost-dev kde-workspace-dev
+* git clone git://anongit.kde.org/kget
+* mkdir build
+* cd build
+* cmake ..
+* make
+* sudo make install
