@@ -151,12 +151,12 @@ sudo apt-get install libswscale-dev
 sudo apt-get install libpostproc-dev
 ```
 
-20\. <font color='orange'>[Needful]</font>Install [TCP wrappers Library](http://packages.ubuntu.com/precise/i386/libwrap0-dev)
+20\. <font color='orange'>[Needful]</font> Install [TCP wrappers Library](http://packages.ubuntu.com/precise/i386/libwrap0-dev)
 ```
 sudo apt-get install libwrap0-dev
 ```
 
-21\. <font color='orange'>[Needful]</font>Install [Asynchronous I/O Library](http://www.gnu.org/software/libc/manual/html_node/Asynchronous-I_002fO.html)
+21\. <font color='orange'>[Needful]</font> Install [Asynchronous I/O Library](http://www.gnu.org/software/libc/manual/html_node/Asynchronous-I_002fO.html)
 ```
 sudo apt-get install libaio-dev
 ```
