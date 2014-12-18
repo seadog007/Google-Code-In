@@ -1,0 +1,37 @@
+{
+  "name": "MOPCON - Mobile Open Platform Conference",
+  "url": "http://mopcon.org/",
+  "location": {
+    "city": "Kaohsiung",
+    "country": "TW",
+    "lat": 22.6264891,
+    "lon": 120.2856462
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/mopcon",
+    "facebook": "https://www.facebook.com/mopcon",
+    "twitter": "@mopcon",
+    "googleplus": "https://plus.google.com/+MopconOrg"
+  },
+  "timeline": [
+    {
+      "description": "MOPCON 2012",
+      "timestamp": "2012-10-27",
+      "url": "http://mopcon.org/2012/"
+    },
+    {
+      "description": "MOPCON 2013",
+      "timestamp": "2013-10-26",
+      "url": "http://mopcon.org/2013/"
+    },
+    {
+      "description": "MOPCON 2014",
+      "timestamp": "2014-10-25",
+      "url": "http://mopcon.org/2014/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-18T09:54:40.828Z"
+  },
+  "api": "1.0.0"
+}

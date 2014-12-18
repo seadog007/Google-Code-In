@@ -1,0 +1,17 @@
+{
+  "name": "HanGee",
+  "url": "http://hangee.tw/",
+  "location": {
+    "city": "Taiepi",
+    "country": "TW",
+    "lat": 25.0322455,
+    "lon": 121.5530316
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/hangeetw"
+  },
+  "state": {
+    "lastchange": "2014-12-18T10:21:28.141Z"
+  },
+  "api": "1.0.0"
+}

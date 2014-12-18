@@ -1,0 +1,23 @@
+{
+  "name": "G0v.tw",
+  "url": "http://g0v.tw/",
+  "location": {
+    "city": "Taipei",
+    "country": "TW",
+    "lat": 25.042342,
+    "lon": 121.6160907,
+    "address": {
+      "Name": "Public Affairs Committee of H.S.S. Building",
+      "Street": "No.128, Sec. 2, Academia Rd., Nangang Dist., Taipei City, Taiwan (R.O.C.)",
+      "Zipcode": "11529"
+    }
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net#g0v.tw",
+    "facebook": "http://facebook.com/g0v.tw"
+  },
+  "state": {
+    "lastchange": "2014-12-18T10:15:47.688Z"
+  },
+  "api": "1.0.0"
+}

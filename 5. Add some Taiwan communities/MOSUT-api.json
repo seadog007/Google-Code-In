@@ -1,0 +1,17 @@
+{
+  "name": "MOSUT - Meet Open Source Users in Tainan",
+  "url": "https://code.google.com/p/mosut/",
+  "location": {
+    "city": "Tainan",
+    "country": "TW",
+    "lat": 23.1506238,
+    "lon": 120.3458694
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/groups/mosut"
+  },
+  "state": {
+    "lastchange": "2014-12-18T10:14:47.986Z"
+  },
+  "api": "1.0.0"
+}

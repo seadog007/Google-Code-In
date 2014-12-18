@@ -1,0 +1,22 @@
+{
+  "name": "OSSF (OpenFoundry) - Open Source Software Foundry",
+  "url": "http://www.openfoundry.org/",
+  "location": {
+    "city": "Taipei",
+    "country": "TW",
+    "lat": 25.041284,
+    "lon": 121.614726,
+    "address": {
+      "Name": "Institute of Information Science, Academia Sinica",
+      "Street": "No.128, Sec. 2, Academia Rd., Nangang Dist., Taipei City, Taiwan (R.O.C.)",
+      "Zipcode": "11529"
+    }
+  },
+  "contact": {
+    "email": "contact@openfoundry.org"
+  },
+  "state": {
+    "lastchange": "2014-12-17T13:51:09.427Z"
+  },
+  "api": "1.0.0"
+}
