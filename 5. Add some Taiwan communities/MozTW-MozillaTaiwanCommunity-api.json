@@ -23,14 +23,26 @@
   "metacommunity": "Mozilla",
   "feeds": [
     {
-      "name": "mailing list",
+      "name": "Mailing List",
       "category": "others",
       "type": "xml",
       "url": "https://groups.google.com/forum/feed/moztw-general/msgs/rss_v2_0.xml?num=50"
+    },
+    {
+      "name": "News",
+      "category": "blog",
+      "type": "rdf",
+      "url": "http://moztw.org/xmlnews.rdf"
+    },
+    {
+      "name": "Planet",
+      "category": "blog",
+      "type": "atom",
+      "url": "http://planet.moztw.org/atom.xml"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T16:41:22.649Z"
+    "lastchange": "2014-12-18T10:57:22.987Z"
   },
   "api": "1.0.0"
 }

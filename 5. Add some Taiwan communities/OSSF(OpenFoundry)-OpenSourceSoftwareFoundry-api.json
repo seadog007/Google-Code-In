@@ -15,8 +15,46 @@
   "contact": {
     "email": "contact@openfoundry.org"
   },
+  "feeds": [
+    {
+      "name": "News",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.openfoundry.org/activities/eventlist?format=feed&type=rss"
+    },
+    {
+      "name": "News Letter",
+      "category": "blog",
+      "type": "xml",
+      "url": "http://www.openfoundry.org/cache/rss10.xml"
+    },
+    {
+      "name": "Workshop",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.openfoundry.org/activities/eventlist?format=feed&type=rss"
+    },
+    {
+      "name": "Forum",
+      "category": "forum",
+      "type": "rss",
+      "url": "http://www.openfoundry.org/forum?func=fb_rss&no_html=1"
+    },
+    {
+      "name": "New Project",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.openfoundry.org/of/rss.rss?cont=new_project"
+    },
+    {
+      "name": "Release Project",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.openfoundry.org/of/rss.rss?cont=new_release"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-17T13:51:09.427Z"
+    "lastchange": "2014-12-18T10:51:32.765Z"
   },
   "api": "1.0.0"
 }

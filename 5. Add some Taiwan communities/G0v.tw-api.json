@@ -16,8 +16,16 @@
     "irc": "irc://irc.freenode.net#g0v.tw",
     "facebook": "http://facebook.com/g0v.tw"
   },
+  "feeds": [
+    {
+      "name": "Posts",
+      "category": "blog",
+      "type": "atom",
+      "url": "http://blog.g0v.tw/posts.atom"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-18T10:15:47.688Z"
+    "lastchange": "2014-12-18T10:58:55.599Z"
   },
   "api": "1.0.0"
 }
