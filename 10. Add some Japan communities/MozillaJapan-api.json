@@ -1,0 +1,26 @@
+{
+  "name": "Mozilla Japan",
+  "url": "http://www.mozilla.jp/",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.665172,
+    "lon": 139.727796
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/foxkeh.jp",
+    "twitter": "@mozillajp"
+  },
+  "feeds": [
+    {
+      "name": "フォクすけの Firefox 情報局",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://foxkeh.jp/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-19T16:49:58.411Z"
+  },
+  "api": "1.0.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "日本Jenkinsユーザ会",
+  "url": "http://build-shokunin.org/",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.67,
+    "lon": 139.71
+  },
+  "contact": {
+    "ml": "jenkinsci-ja@googlegroups.com",
+    "twitter": "@jenkinsja"
+  },
+  "feeds": [
+    {
+      "name": "日本Jenkinsユーザ会",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://build-shokunin.org/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T18:45:24.387Z"
+  },
+  "api": "1.0.1"
+}
